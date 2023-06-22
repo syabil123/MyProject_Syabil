@@ -1,1 +1,2 @@
-Repository pertama di file komputers
+Repository baru dari PC lokal
+Belajar reset dan reverts
